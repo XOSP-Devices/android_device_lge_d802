@@ -15,8 +15,12 @@
 -->
 <changelog bulletedList="true">
     
+    <changelogversion versionName="RL7 Revision 2" changeDate="Jan 06,2017">
+         <changelogtext>Built with nasty007's kernel sources instead of AICP's, for reducing lags and increasing battery life</changelogtext>
+    </changelogversion>
+                                   
     <changelogversion versionName="RL7 Revision 1" changeDate="Dec 02,2016">
         <changelogtext>Initial Nougat Release, nothing to see here...</changelogtext>
     </changelogversion>
-
+     
 </changelog>
